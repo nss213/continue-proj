@@ -40,7 +40,7 @@ In general I found the autocompletions as I was typing to be more positive than 
 
 Overall, there is some great potential in the tool and some obvious rough spots. I think with practice in using Continue and getting the hang of talking to the AI I could see it being a definite productivity booster.
 
-**What problems do you see with Continue?**
+## What problems do you see with Continue?
 
 A few things just seem like bugs:
 
@@ -51,7 +51,7 @@ It's hard to know if it's giving the right answer sometimes. This is a general p
 
 It's also not always going to be up-to-date as the AI only has knowledge up to a certain point in time. It may not know about the latest changes in APIs and Frameworks.
 
-**What ideas do you have about improving Continue?**
+## What ideas do you have about improving Continue?
 
 Perhaps this is already supported and I just have not learned it yet, but it would be great if there was an easy way to tell it "look at these 3 files for context" when the code in question is spread across a few places. 
 
