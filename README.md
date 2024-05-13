@@ -36,8 +36,10 @@ I asked how to show a loading state in Remix (to disable my submit button). It g
 ### Remix server side state
 Finally, I highlighted some code where I had a module scoped variable in my `_index.tsx` and asked it if the data in the variable would persist through hot code reloads in dev. Here I was surprised that it understood exactly what I was talking about and gave me a coherent and correct (seeming) explanation about why the data would not persist through hot code reloads. I can't verify if it was 100% correct but it did match the behavior I was seeing.
 
+### Autocompletions
 In general I found the autocompletions as I was typing to be more positive than negative, but still mixed. Some were really great and got exactly what I had in mind. Others were not entirely useful, but to me the worst were when the autocomplete output was many lines long and would jump around as I typed. 
 
+### General
 Overall, there is some great potential in the tool and some obvious rough spots. I think with practice in using Continue and getting the hang of talking to the AI I could see it being a definite productivity booster.
 
 ## What problems do you see with Continue?
